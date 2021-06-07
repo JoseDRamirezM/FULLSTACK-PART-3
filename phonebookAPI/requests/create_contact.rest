@@ -1,0 +1,7 @@
+POST https://intense-garden-14976.herokuapp.com/api/persons
+Content-Type: application/json
+
+{
+    "name": "Alba M",
+    "number" : "1234"
+}
